@@ -53,7 +53,8 @@ The dataset includes:
 
 ###### **📕 Instagram Ads Dashboard**
 
-!\[Instagram Dashboard](Dashboard%20Images/instagram\_dashboard.png)
+![Meta Ad Performance Dashboard – Instagram](Dashboard%20Images/meta_dashboard_overview_instagram.png)
+
 
 
 
@@ -81,6 +82,7 @@ https://youtu.be/8fe9wENTdtU
 **Uma Anil Tadas**
 
 Aspiring Data Analyst | Power BI | SQL | Excel
+
 
 
 
