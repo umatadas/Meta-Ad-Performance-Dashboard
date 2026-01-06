@@ -46,7 +46,8 @@ The dataset includes:
 
 ###### **📘 Facebook Ads Dashboard**
 
-!\[Facebook Dashboard](Dashboard%20Images/facebook\_dashboard.png)
+![Meta Ad Performance Dashboard – Facebook](Dashboard_Images/meta_dashboard_overview_facebook.png)
+
 
 
 
@@ -80,4 +81,5 @@ https://youtu.be/8fe9wENTdtU
 **Uma Anil Tadas**
 
 Aspiring Data Analyst | Power BI | SQL | Excel
+
 
